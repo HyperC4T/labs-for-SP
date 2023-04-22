@@ -12,3 +12,5 @@
 		```
 		$ python3 lab5.py
 		```
+Результат
+![image](https://user-images.githubusercontent.com/115781737/233774293-68b65964-815d-48e9-a237-aa91685097c2.png)
