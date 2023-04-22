@@ -7,7 +7,7 @@
 	#### **Руководство по сборке и запуске проекта**
 	1. Клонирование репозитория
 		```
-		$ git clone https://github.com/MacloMen336/SP_work/
+		$ git clone https://github.com/HyperC4T/labs-for-SP/tree/lab1
 		```
 	2. Запуск программы
 		```
