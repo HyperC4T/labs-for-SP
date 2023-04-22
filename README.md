@@ -16,3 +16,5 @@
 		```
 		$ pyton3 Client.py
 		```
+Результат (слева сервер,справа клиент)
+![image](https://user-images.githubusercontent.com/115781737/233775303-e7443db9-cbbb-4446-9b99-8e8bfe75a043.png)
