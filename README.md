@@ -10,5 +10,5 @@
 		```
 	2. Запуск программы
 		```
-		$ python3 second.py
+		$ python3 client.py
 		```
