@@ -46,7 +46,7 @@ def fil_size():
         ['Имя', 'Размер', 'Дата изменения'],
     ]
 
-    for file in filenames:
+    for file in filenames:#для таблицы с файлами
         te=float(file[2])
         cont=0
         while te>=1024:
