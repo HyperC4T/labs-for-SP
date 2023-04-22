@@ -13,4 +13,6 @@
 		$ python3 lab5.py
 		```
 Результат
-![image](https://user-images.githubusercontent.com/115781737/233774293-68b65964-815d-48e9-a237-aa91685097c2.png)
+![image](https://user-images.githubusercontent.com/115781737/233777675-fd8215b5-bdb3-4167-b251-dca417ab3dfd.png)
+![image](https://user-images.githubusercontent.com/115781737/233777693-9ffb8b6a-8015-4d37-844c-12314faaef14.png)
+
