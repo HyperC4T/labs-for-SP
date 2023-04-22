@@ -10,5 +10,5 @@
 		```
 	2. Запуск программы
 		```
-		$ python3 Five.py
+		$ python3 lab5.py
 		```
