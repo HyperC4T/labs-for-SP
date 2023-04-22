@@ -11,5 +11,5 @@
 		```
 	2. Запуск программы
 		```
-		$ python3 First.py
+		$ python3 lab1.py
 		```
