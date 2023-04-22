@@ -8,7 +8,11 @@
 		```
 		$ git clone https://github.com/HyperC4T/labs-for-SP/tree/lab2
 		```
-	2. Запуск программы
+	2. Запуск программы на сервере
 		```
-		$ python3 client.py
+		$ python3 Server.py
+		```
+	3. Запуск программы со стороны клиента
+		```
+		$ pyton3 Client.py
 		```
